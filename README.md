@@ -4,7 +4,11 @@ This project implements a user authentication system in Django, including sign-u
 Features
 
 ✅ User registration with email confirmation
+
 ✅ Secure login system using Django authentication
+
 ✅ Integration with django-crispy-forms for better UI
+
 ✅ Prevention of unauthorized access
+
 ✅ Database security practices
